@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Build folders (nếu dùng TypeScript hoặc bundler sau này)
+dist/
+build/
+
+# Railway auto config (nếu không muốn đẩy lên Git)
+railway.json
