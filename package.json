@@ -25,5 +25,16 @@
     "@types/node": "^24.0.3",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.8.3"
-  }
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvu-1801/Vking.sever.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nvu-1801/Vking.sever/issues"
+  },
+  "homepage": "https://github.com/nvu-1801/Vking.sever#readme"
 }
